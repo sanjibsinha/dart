@@ -6,8 +6,6 @@ We have just started it.
 
 There are lot of tips and tricks that might be useful for beginners. 
 
-## I also share my learning experience on Tensorflow, Python, Machine Learning, Data Science and Artificial Intelligence in - [https://sinhasanjib.com](https://sinhasanjib.com)
-
 There are lot of tips and tricks that might be useful for beginners. 
 
 ## Getting Started
